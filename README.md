@@ -1,6 +1,7 @@
 <h1 align="center">
-  Olá, Seja bem-vindo(a)
-  <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47t675s9ghxksmzpsimeipow3fu0gcmwdrnntfr4qh&rid=200w.webp&ct=g" width="4%">
+  Olá, Seja bem-vindo(a) 
+<br>
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0390.gif" width="100%">
 </h1>
 <p align="center">
    <a href="https://www.linkedin.com/in/akleyalves/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
