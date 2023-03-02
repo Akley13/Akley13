@@ -1,7 +1,6 @@
 <h1 align="center">
   Olá, Seja bem-vindo(a) 
-<br>
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0390.gif" width="100%">
+<img src="https://media.tenor.com/GKfLyh3NyQcAAAAj/alien-jam.gif" width="8%">
 </h1>
 <p align="center">
    <a href="https://www.linkedin.com/in/akleyalves/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
