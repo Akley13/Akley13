@@ -2,12 +2,12 @@
   Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.6%" title="Little computer" alt="Little computer gif">
 </h1>
 
-<h2>Sobre mim:</h2>
+<h3>Sobre mim:</h3>
 
-<p>13/03/2001</p>
-<p>Serra dos Carajás - PA</p>
-<p>Análise e Desenvolvimento de sistemas</p>
-<p>Goiânia - GO</p>
+<p>Casado</p>
+<p>22 anos</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/3367/3367586.png" width="1.9%"> Goiânia - GO</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/akleyalves/"><img alt="Linkedin" title="Linkedin/Akley" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
