@@ -4,7 +4,7 @@
 
 <p><img src="https://cdn-icons-png.flaticon.com/512/3939/3939673.png" width="2.4%"> Casado</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/2194/2194311.png" width="2.2%"> 22 anos</p>
-<p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas | IPOG <img src="https://cdn-icons-png.flaticon.com/512/3330/3330421.png" width="2%"></p>
 <a href="https://www.google.com/maps/place/Goi%C3%A2nia,+GO/@-16.6958759,-49.3042674,11z/data=!3m1!4b1!4m6!3m5!1s0x935ef6bd58d80867:0xef692bad20d2678e!8m2!3d-16.6868912!4d-49.2647943!16s%2Fg%2F11b6_k3v69"><p><img src="https://cdn-icons-png.flaticon.com/512/3367/3367586.png" width="1.9%"> Goiânia - GO</p></a>
 
 <h3>Sobre mim...</h3>
