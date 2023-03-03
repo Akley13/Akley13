@@ -25,6 +25,6 @@
  
 <div align="center">
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Akley13&label=Profile%20views&color=0e75b6&style=flat" alt="Akley13" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Akley13&label=Profile%20views&color=0e75b6&style=flat" title="Akley views" alt="Site Views"></p>
   
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
