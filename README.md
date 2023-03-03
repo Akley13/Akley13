@@ -18,7 +18,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/akleyalves/"><img alt="Linkedin" title="Linkedin/Akley" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://wa.me/<+55062991068933>"><img alt="WhatsApp" title="WhatsApp/Akley" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+   <a href="https://web.whatsapp.com/<+55062991068933>"><img alt="WhatsApp" title="WhatsApp/Akley" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
    <a href="mailto:akleyalvescr@gmail.com"><img alt="Gmail" title="Gmail/Akley" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://discord.gg/vAqK3NDn"><img alt="Discord" title="Discord/Akley" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
