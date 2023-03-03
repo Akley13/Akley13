@@ -1,3 +1,5 @@
+<img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
+
 <h1 align="center">
   Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.6%" title="Little computer" alt="Little computer gif">
 </h1>
@@ -8,8 +10,6 @@
 <p><img src="https://cdn-icons-png.flaticon.com/512/2194/2194311.png" width="2.2%"> 22 anos</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/3367/3367586.png" width="1.9%"> Goiânia - GO</p>
-
-
 
 <h3 align="center">CONTATO</h3>
 
