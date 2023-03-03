@@ -27,4 +27,6 @@
  
 <div align="center">
   
+![Visitor Count](https://profile-counter.glitch.me/Akley13/count.svg)  
+  
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
