@@ -12,7 +12,7 @@
 <h3>Curiosidades:</h3>
 <p>Amo minha mulher, adoro assistir filmes e séries, mais ainda quando estou com ela <3. Amo videogames e sou <strong>FANÁTICO</strong> por animes, meu preferido é <em>MOB PSYCHO 100</em>. Nos meus tempos livres, saio com amigos e sempre me dedico o máximo que posso aos estudos, acredito que só praticando(codando) todos os dias irei chegar onde almejo.</p>
 
-<h3 align="center">CONTATO</h3>
+<h3 align="center">CONTATO:</h3>
 
 <br>
 
