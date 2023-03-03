@@ -8,7 +8,7 @@
 <a href="https://www.google.com/maps/place/Goi%C3%A2nia,+GO/@-16.6958759,-49.3042674,11z/data=!3m1!4b1!4m6!3m5!1s0x935ef6bd58d80867:0xef692bad20d2678e!8m2!3d-16.6868912!4d-49.2647943!16s%2Fg%2F11b6_k3v69"><p><img src="https://cdn-icons-png.flaticon.com/512/3367/3367586.png" width="1.9%"> Goiânia - GO</p></a>
 
 <h3>Sobre mim...</h3>
-<p align="justify">Amo minha esposa, adoro assistir filmes e séries, mais ainda quando estou com ela <3. Aficionado por videogames e <strong>FANÁTICO</strong> por animes, meu preferido é <em>MOB PSYCHO 100</em>. Nos meus tempos livres, saio com amigos e sempre me dedico o máximo que posso aos estudos, acredito que só praticando(codando) todos os dias irei chegar onde almejo.</p>
+<p align="justify">Amo minha esposa, adoro assistir filmes e séries, em boa companhia, melhor ainda <3. Aficionado por videogames e <strong>FANÁTICO</strong> por animes, meu preferido é <em>MOB PSYCHO 100</em>. Nos meus tempos livres, saio com amigos e sempre me dedico o máximo que posso aos estudos, acredito que só praticando(codando) todos os dias irei chegar onde almejo.</p>
 
 <h3 align="center">CONTATO:</h3>
 
