@@ -13,4 +13,4 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Akley13&label=Profile%20views&color=0e75b6&style=flat" alt="Akley13" /> </p>
   
-<img src="https://pa1.narvii.com/6474/c6545b527f38186c9798514f32f323c21647fb95_hq.gif" width="100%">
+<img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
