@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/Akley13/count.svg)
+
 <h1 align="center">
   Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.8%" title="Little computer" alt="Little computer gif">
 </h1>
@@ -24,7 +26,5 @@
 </p>
  
 <div align="center">
-
-
   
 <img src="https://www.gifs-animados.net/barra/barra53.gif" width="100%">
