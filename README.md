@@ -1,7 +1,14 @@
 <h1 align="center">
   Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.6%" title="Little computer" alt="Little computer gif">
-</h1> 
-  
+</h1>
+
+<h2>Sobre mim:</h2>
+
+<p>13/03/2001</p>
+<p>Serra dos Carajás - PA</p>
+<p>Análise e Desenvolvimento de sistemas</p>
+<p>Goiânia - GO</p>
+
 <p align="center">
    <a href="https://www.linkedin.com/in/akleyalves/"><img alt="Linkedin" title="Linkedin/Akley" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://wa.me/<+55062991068933>"><img alt="WhatsApp" title="WhatsApp/Akley" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
