@@ -9,6 +9,9 @@
 <p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/3367/3367586.png" width="1.9%"> Goiânia - GO</p>
 
+<h3>Curiosidades:</h3>
+<p>Amo minha mulher, adoro assistir filmes e séries, mais ainda quando estou com ela <3. Amo videogames e sou <strong>FANÁTICO</strong> por animes, meu preferido é <em>MOB PSYCHO 100</em>. Nos meus tempos livres, saio com amigos e sempre me dedico o máximo que posso aos estudos, acredito que só praticando(codando) todos os dias irei chegar onde almejo.</p>
+
 <h3 align="center">CONTATO</h3>
 
 <br>
