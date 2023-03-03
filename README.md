@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.6%" alt="deu ruim">
+  Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.6%" title="Little computer" alt="Little computer gif">
 </h1> 
 
 <img src="https://camo.githubusercontent.com/7eb3b62e5913272c4fdcede34e491043fdd209dc6e30754e73b0ecf4fc8a0da3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6761627269656c2d617175696e6f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Akley13" data-canonical-src="https://komarev.com/ghpvc/?username=Akley13&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
