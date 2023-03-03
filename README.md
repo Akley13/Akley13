@@ -10,7 +10,7 @@
 </p>
   
 <div align="center">
-  <img src="https://camo.githubusercontent.com/7eb3b62e5913272c4fdcede34e491043fdd209dc6e30754e73b0ecf4fc8a0da3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6761627269656c2d617175696e6f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Akley13" data-canonical-src="https://komarev.com/ghpvc/?username=Akley13&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
-</div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Akley13&label=Profile%20views&color=0e75b6&style=flat" alt="Akley13" /> </p>
   
 <img src="https://pa1.narvii.com/6474/c6545b527f38186c9798514f32f323c21647fb95_hq.gif" width="100%">
