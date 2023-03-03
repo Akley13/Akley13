@@ -5,9 +5,15 @@
 <h3>Sobre mim:</h3>
 
 <p><img src="https://cdn-icons-png.flaticon.com/512/3939/3939673.png" width="2.4%"> Casado</p>
-<p><img src="<img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%">" width="1.6%">22 anos</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/2194/2194311.png" width="2.2%"> 22 anos</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/3367/3367586.png" width="1.9%"> Goiânia - GO</p>
+
+
+
+<h3 align="center">CONTATO</h3>
+
+<br>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/akleyalves/"><img alt="Linkedin" title="Linkedin/Akley" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,7 +21,7 @@
    <a href="mailto:akleyalvescr@gmail.com"><img alt="Gmail" title="Gmail/Akley" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://discord.gg/vAqK3NDn"><img alt="Discord" title="Discord/Akley" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-  
+ 
 <div align="center">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Akley13&label=Profile%20views&color=0e75b6&style=flat" alt="Akley13" /> </p>
