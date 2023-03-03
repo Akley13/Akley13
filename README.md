@@ -2,8 +2,6 @@
   Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.8%" title="Little computer" alt="Little computer gif">
 </h1>
 
-<h3>Sobre mim:</h3>
-
 <p><img src="https://cdn-icons-png.flaticon.com/512/3939/3939673.png" width="2.4%"> Casado</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/2194/2194311.png" width="2.2%"> 22 anos</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas</p>
