@@ -11,8 +11,16 @@
 <p align="justify">Amo minha esposa, adoro assistir filmes e séries, em boa companhia, melhor ainda <3. Aficionado por videogames e <strong>FANÁTICO</strong> por animes, meu preferido é <em>MOB PSYCHO 100</em>. Nos meus tempos livres, saio com amigos e sempre me dedico o máximo que posso aos estudos, acredito que só praticando(codando) todos os dias irei chegar onde almejo.</p>
 
 <h3 align="center">SKILLS:</h3>
-<a href=""><img alt ="JAVA ICON" title="Java" src="![image](https://user-images.githubusercontent.com/111058654/233791252-f6074da6-25bb-4316-93fc-23fff1df4d8f.png)
-"></a>
+
+<img title="Java" alt="Java image" src="https://user-images.githubusercontent.com/111058654/233843365-adc23013-b6dc-4025-9d9a-9317402a85a8.png" width="5%"> <img title="Python" alt="Python image" src="https://user-images.githubusercontent.com/111058654/233843404-018b65fa-a208-4873-b9a4-a8d472545495.png" width="4%"> <img title="HTML" alt="HTML image" src="https://user-images.githubusercontent.com/111058654/233854316-867f440f-de97-4e32-b841-1805b4b53e1e.png" width="4%"> <img title="BootStrap" alt="Bootstrap image" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="5.3%"> <img title="CSS" alt="CSS image" src="https://user-images.githubusercontent.com/111058654/233854375-1b457f6a-aede-4923-b3b8-73cd6296a9a5.png" width="4%"> <img title="JavaScript" alt="JS image" src="https://user-images.githubusercontent.com/111058654/233854443-99994faa-4a56-463a-bced-fab4119212a6.png" width="3.8%"> <img title="GIT" alt="GIT image" src="https://user-images.githubusercontent.com/111058654/233854734-fb5cae25-2297-4502-bfeb-8fbbb4184188.png" width="4%"> <img title="GitHub" alt="GitHub image" src="https://user-images.githubusercontent.com/111058654/233854796-d58931fc-9576-40d0-bdcf-8918266075cf.png" width="3.9%">
+
+
+
+
+
+
+
+<img title="" alt=" image" src="" width="5%">
 
 <h3 align="center">CONTATO:</h3>
 
