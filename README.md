@@ -12,7 +12,9 @@
 
 <h3 align="center">SKILLS:</h3>
 
-<img title="Java" alt="Java image" src="https://user-images.githubusercontent.com/111058654/233843365-adc23013-b6dc-4025-9d9a-9317402a85a8.png" width="5%"> <img title="Python" alt="Python image" src="https://user-images.githubusercontent.com/111058654/233843404-018b65fa-a208-4873-b9a4-a8d472545495.png" width="4%"> <img title="HTML" alt="HTML image" src="https://user-images.githubusercontent.com/111058654/233854316-867f440f-de97-4e32-b841-1805b4b53e1e.png" width="4%"> <img title="BootStrap" alt="Bootstrap image" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="5.3%"> <img title="CSS" alt="CSS image" src="https://user-images.githubusercontent.com/111058654/233854375-1b457f6a-aede-4923-b3b8-73cd6296a9a5.png" width="4%"> <img title="JavaScript" alt="JS image" src="https://user-images.githubusercontent.com/111058654/233854443-99994faa-4a56-463a-bced-fab4119212a6.png" width="3.8%"> <img title="GIT" alt="GIT image" src="https://user-images.githubusercontent.com/111058654/233854734-fb5cae25-2297-4502-bfeb-8fbbb4184188.png" width="4%"> <img title="GitHub" alt="GitHub image" src="https://user-images.githubusercontent.com/111058654/233854796-d58931fc-9576-40d0-bdcf-8918266075cf.png" width="3.9%">
+ <div align="center">
+<img title="Java" alt="Java image" src="https://user-images.githubusercontent.com/111058654/233843365-adc23013-b6dc-4025-9d9a-9317402a85a8.png" width="5%"> <img title="Python" alt="Python image" src="https://user-images.githubusercontent.com/111058654/233843404-018b65fa-a208-4873-b9a4-a8d472545495.png" width="4%"> <img title="HTML" alt="HTML image" src="https://user-images.githubusercontent.com/111058654/233854316-867f440f-de97-4e32-b841-1805b4b53e1e.png" width="4%"> <img title="BootStrap" alt="Bootstrap image" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="5.3%"> <img title="CSS" alt="CSS image" src="https://user-images.githubusercontent.com/111058654/233854375-1b457f6a-aede-4923-b3b8-73cd6296a9a5.png" width="4%"> <img title="JavaScript" alt="JS image" src="https://user-images.githubusercontent.com/111058654/233854443-99994faa-4a56-463a-bced-fab4119212a6.png" width="3.8%"> <img title="MySQL" alt="MySQL image" src="https://user-images.githubusercontent.com/111058654/233855076-741f3f00-b037-4261-8b9b-71cba0921c3e.png" width="3.8%"> <img title="GIT" alt="GIT image" src="https://user-images.githubusercontent.com/111058654/233854734-fb5cae25-2297-4502-bfeb-8fbbb4184188.png" width="4%"> <img title="GitHub" alt="GitHub image" src="https://user-images.githubusercontent.com/111058654/233854796-d58931fc-9576-40d0-bdcf-8918266075cf.png" width="3.9%">
+</div>
 
 
 
@@ -20,7 +22,6 @@
 
 
 
-<img title="" alt=" image" src="" width="5%">
 
 <h3 align="center">CONTATO:</h3>
 
