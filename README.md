@@ -2,13 +2,12 @@
   Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.8%" title="Little computer" alt="Little computer gif">
 </h1>
 
+<h3>Um pouco sobre mim...</h3>
+
 <p><img src="https://cdn-icons-png.flaticon.com/512/3939/3939673.png" width="2.4%"> Casado</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/2194/2194311.png" width="2.2%"> 22 anos</p>
 <p><img src="https://cdn-icons-png.flaticon.com/512/3389/3389066.png" width="1.6%"> Análise e Desenvolvimento de sistemas | IPOG <img src="https://cdn-icons-png.flaticon.com/512/3330/3330421.png" width="2%"></p>
 <a href="https://www.google.com/maps/place/Goi%C3%A2nia,+GO/@-16.6958759,-49.3042674,11z/data=!3m1!4b1!4m6!3m5!1s0x935ef6bd58d80867:0xef692bad20d2678e!8m2!3d-16.6868912!4d-49.2647943!16s%2Fg%2F11b6_k3v69"><p><img src="https://cdn-icons-png.flaticon.com/512/3367/3367586.png" width="1.9%"> Goiânia - GO</p></a>
-
-<h3>Um pouco sobre mim...</h3>
-<p align="justify">Adoro assistir filmes e séries, em boa companhia, melhor ainda <3. Aficionado por videogames e <strong>FANÁTICO</strong> por animes, meu preferido é <em>MOB PSYCHO 100</em>. Nos meus tempos livres, saio com amigos e sempre me dedico o máximo que posso aos estudos, acredito que só praticando(codando) todos os dias irei chegar onde almejo.</p>
 
 <h3 align="center">HABILIDADES:</h3>
 
