@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, Seja bem-vindo(a) <img src="https://www.animatedimages.org/data/media/573/animated-monitor-and-screen-image-0128.gif" width="2.8%" title="Little computer" alt="Little computer gif">
+  Olá, Seja bem-vindo(a)
 </h1>
 
 <h3>Um pouco sobre mim...</h3>
